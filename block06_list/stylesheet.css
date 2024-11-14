@@ -1,0 +1,41 @@
+h1{
+    color: rgb(45, 134, 104);
+    text-align: center;
+}
+.Items{
+    column-span: 1;
+    border: black solid;
+    background-color: bisque;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+.category{
+    border: 0px;
+    background-color: rgb(233, 228, 228);
+    content: 30px;
+}
+.pic1{
+    border: 1px black solid;
+    background-image: url("pantryItem.jpeg");
+    background-size: contain;
+    height: 155px;
+    width: 188px;
+}
+.section1{
+    display: inline-block;
+    margin: 20px;
+    block-size: 155px;
+    padding-right: 60px;
+}
+.section2{
+    display: inline-block;
+    margin: 20px;
+    block-size: 155px;
+    padding-right: 60px;
+}
+pic2{
+    border: 1px black solid;
+    height: 155px;
+}
+
